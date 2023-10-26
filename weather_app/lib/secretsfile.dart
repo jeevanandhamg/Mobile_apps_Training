@@ -1,0 +1,1 @@
+const secretWeatherAPIKey = 'b1c959c887af6406f8fe9b88a9ef10e3';
